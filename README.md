@@ -1,4 +1,4 @@
-## Figure 만드는 코드 모아놓은 저장소
+## Figure 제작 코드 저장소
 
 ### correspondence_points
 - 제안한 dataset의 matching points의 분포도를 나타내 주는 figure 생성 코드
